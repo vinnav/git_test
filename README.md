@@ -1,1 +1,1 @@
-This is Vin’s first git project!”
+This is Vin’s first git project!
